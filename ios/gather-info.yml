@@ -1,5 +1,6 @@
 ---
-hosts: all
+- name: gather-info
+  hosts: all
 
 tasks:
   - name: run show version on remote devices
