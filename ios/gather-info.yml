@@ -1,5 +1,4 @@
 ---
--name: gather-info
 hosts: all
 
 tasks:
